@@ -1,0 +1,20 @@
+{
+  "name": "ex-nav",
+  "version": "1.0.0",
+  "description": "CSC 317 - Navbar using Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamanujaMohanty/ex-nav.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamanujaMohanty/ex-nav/issues"
+  },
+  "homepage": "https://github.com/RamanujaMohanty/ex-nav#readme"
+}
